@@ -2,6 +2,7 @@
 layout: post
 title:  "{Motivate yourself by following a vision, not by feeling}"
 categories: jekyll update
+published: false
 ---
 {
 Emotion can be a powerful motivator, but, like the internal body feeling, is a factor that is very susceptible to outside influences. The problem with that is that you can be focusing in your emotions in order to fix them prior to have work done. Over time, this can get into a vicious circle where you focus more on feeling that on real world. Feelings, even your mind (and even your body) are merely tools to have an effect on the world, a guidance tool in case of emotions that tell you if you are aligned with the things you want.

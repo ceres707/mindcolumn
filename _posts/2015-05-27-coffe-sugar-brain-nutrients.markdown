@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "{Avoid coffee, sugar in order to maintain levels of other nutrients on the brain}"
+published: false
 ---
 {
 I'm starting an articles series with the content of lessons that I've learned in this 5+ years of IT consultant. Are meant to be key factors. I really struggled with some of those factors and with others... well maybe I passed them with flying colors, other are recent discoveries. I'm writing that down because I consider it to have some worth to share.

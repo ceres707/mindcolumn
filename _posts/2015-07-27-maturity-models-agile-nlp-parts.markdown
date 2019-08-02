@@ -2,6 +2,7 @@
 layout: post
 title:  "{Evolve to a resolutive framework}"
 categories: jekyll update
+published: false
 ---
 {
 One thing that changed the way I saw the world when I was studying for a dregree in computer science was CMMI, maybe I was getting older and I was prepared to be more patient in the things I do and maybe that mixed with the internalization of concepts like earned value and the measurement of maturity of the processes, that with time became the perception of maturity of... everything.
